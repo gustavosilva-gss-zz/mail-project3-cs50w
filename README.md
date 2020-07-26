@@ -31,6 +31,6 @@ In the compose form somethings will be already filled.
 * The reply's body will be pre-filled as "On `original timestamp` `original sender` wrote: `original body`"
 
 ### **External Links**
-**Video Demonstration**: https://www.youtube.com/
+**Video Demonstration**: https://youtu.be/X9wLmAPCFjo
 
 **Try the project here**: https://mail-project3-cs50w.herokuapp.com/
